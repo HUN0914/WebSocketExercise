@@ -8,7 +8,7 @@ import lombok.Setter;
 public class ChatMessage {
 
     private MessageType type;
-    private String conetent;
+    private String content;
     private String sender;
 
 }
